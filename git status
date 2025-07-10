@@ -1,0 +1,10 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0707a7f..1d702a7 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1 @@[m
+[31m-<p>jye shri ram </p>[m
+[31m-<h1> header part 1 </h1>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>jye shri ram </p>[m
+\ No newline at end of file[m
