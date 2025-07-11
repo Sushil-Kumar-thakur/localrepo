@@ -1,10 +1,18 @@
-[1mdiff --git a/index.html b/index.html[m
-[1mindex 0707a7f..1d702a7 100644[m
-[1m--- a/index.html[m
-[1m+++ b/index.html[m
-[36m@@ -1,2 +1 @@[m
-[31m-<p>jye shri ram </p>[m
-[31m-<h1> header part 1 </h1>[m
-\ No newline at end of file[m
-[32m+[m[32m<p>jye shri ram </p>[m
-\ No newline at end of file[m
+* [33mf02038f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/moviesite[m[33m, [m[1;32mmoviesite[m[33m)[m new way
+*   [33mde7239d[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mnumber-one[m[33m)[m qwertyuiop
+[32m|[m[33m\[m  
+[32m|[m *   [33m7e110ec[m new file ha ha
+[32m|[m [34m|[m[35m\[m  
+[32m|[m [34m|[m *   [33m1c3cfc5[m Merge pull request #1 from Sushil-Kumar-thakur/number-one
+[32m|[m [34m|[m [36m|[m[1;31m\[m  
+[32m|[m * [36m|[m [1;31m|[m [33ma40d55d[m mnmnmn
+[32m|[m * [36m|[m [1;31m|[m [33m0729316[m  just demo he bhai
+[32m|[m [36m|[m[36m/[m [1;31m/[m  
+* [36m|[m [1;31m|[m [33m9f12b4f[m Removed accidental file 'ok'
+* [36m|[m [1;31m|[m [33ma0cb3a3[m Removed header part from index.html
+[1;31m|[m [36m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[36m|[m   
+* [36m|[m [33m65785d4[m[33m ([m[1;31morigin/number-one[m[33m)[m number 2
+[36m|[m[36m/[m  
+* [33mb38216e[m repo 2 demo solve :
+git remote add origin2 https://github.com/username/repo2.git
